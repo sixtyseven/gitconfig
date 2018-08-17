@@ -1,6 +1,7 @@
 [user]
         email = lsq***@gmail.com
         name = Bruce
+        
 [color]
         ui = auto
 
