@@ -1,3 +1,5 @@
+[core]
+        editor = vim
 [user]
 
         email = lsq***@gmail.com
